@@ -1,0 +1,15 @@
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/obj/Debug/net8.0/CafeAdministrator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/obj/Debug/net8.0/CafeAdministrator.AssemblyInfoInputs.cache
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/obj/Debug/net8.0/CafeAdministrator.AssemblyInfo.cs
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/obj/Debug/net8.0/CafeAdministrator.csproj.CoreCompileInputs.cache
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/obj/Debug/net8.0/CafeAdministrator.sourcelink.json
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/bin/Debug/net8.0/CafeAdministrator
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/bin/Debug/net8.0/CafeAdministrator.deps.json
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/bin/Debug/net8.0/CafeAdministrator.runtimeconfig.json
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/bin/Debug/net8.0/CafeAdministrator.dll
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/bin/Debug/net8.0/CafeAdministrator.pdb
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/obj/Debug/net8.0/CafeAdministrator.dll
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/obj/Debug/net8.0/refint/CafeAdministrator.dll
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/obj/Debug/net8.0/CafeAdministrator.pdb
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/obj/Debug/net8.0/CafeAdministrator.genruntimeconfig.cache
+/Users/vladislavgolosov/Desktop/C#/CafeAdministrator/CafeAdministrator/obj/Debug/net8.0/ref/CafeAdministrator.dll
